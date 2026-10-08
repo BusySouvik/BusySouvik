@@ -33,38 +33,70 @@
 
 **Computer Science Engineer · Builder · Problem Solver**
 
-</div>
-
 ---
 
-```text
-                  ┌─────────────────────┐
-                  │       IDEA          │
-                  └──────────┬──────────┘
-                             │
-                             ▼
-                  ┌─────────────────────┐
-                  │      EXPLORE        │
-                  └──────────┬──────────┘
-                             │
-                             ▼
-                  ┌─────────────────────┐
-                  │       BUILD         │
-                  └──────────┬──────────┘
-                             │
-                             ▼
-                  ┌─────────────────────┐
-                  │      BREAK          │
-                  └──────────┬──────────┘
-                             │
-                             ▼
-                  ┌─────────────────────┐
-                  │       LEARN         │
-                  └──────────┬──────────┘
-                             │
-                             └───────────────↺
-```
+<div align="center">
 
+### `// THE_LOOP`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1800&pause=400&color=00FF9C&center=true&vCenter=true&width=650&lines=%5B+PROCESS+INITIALIZED+%5D;%5B+IDEA+%E2%86%92+EXPLORE+%E2%86%92+BUILD+%5D;%5B+BREAK+%E2%86%92+LEARN+%E2%86%92+REPEAT+%5D;%5B+LOOP+RUNNING...+%5D" />
+
+<br>
+
+<img src="https://svg-banners.vercel.app/api?type=animated&text=IDEA%20%20%E2%86%92%20%20EXPLORE%20%20%E2%86%92%20%20BUILD%20%20%E2%86%92%20%20BREAK%20%20%E2%86%92%20%20LEARN%20%20%E2%86%92%20%20REPEAT&width=1000&height=120&fontSize=24&color=00ff9c&background=050505" />
+
+<br><br>
+
+```text
+                 ┌───────────────┐
+                 │               │
+                 │    ◉ IDEA     │
+                 │               │
+                 └───────┬───────┘
+                         │
+                         │  ░▒▓█
+                         ▼
+                 ┌───────────────┐
+                 │               │
+                 │  ◉ EXPLORE    │
+                 │               │
+                 └───────┬───────┘
+                         │
+                         │  ░▒▓█
+                         ▼
+                 ┌───────────────┐
+                 │               │
+                 │   ◉ BUILD     │
+                 │               │
+                 └───────┬───────┘
+                         │
+                         │  ░▒▓█
+                         ▼
+                 ┌───────────────┐
+                 │               │
+                 │   ◉ BREAK     │
+                 │               │
+                 └───────┬───────┘
+                         │
+                         │  ░▒▓█
+                         ▼
+                 ┌───────────────┐
+                 │               │
+                 │   ◉ LEARN     │
+                 │               │
+                 └───────┬───────┘
+                         │
+                         │
+                         └─────────────────────┐
+                                               │
+                                               ▼
+                                      ┌────────────────┐
+                                      │                │
+                                      │  ◉ REPEAT ↺    │
+                                      │                │
+                                      └───────┬────────┘
+                                              │
+                                              └────────► IDEA
 ## `ABOUT_ME`
 
 I'm a Computer Science Engineering student who enjoys going beyond
