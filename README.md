@@ -33,70 +33,79 @@
 
 **Computer Science Engineer · Builder · Problem Solver**
 
+</div>
+
 ---
 
 <div align="center">
 
 ### `// THE_LOOP`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1800&pause=400&color=00FF9C&center=true&vCenter=true&width=650&lines=%5B+PROCESS+INITIALIZED+%5D;%5B+IDEA+%E2%86%92+EXPLORE+%E2%86%92+BUILD+%5D;%5B+BREAK+%E2%86%92+LEARN+%E2%86%92+REPEAT+%5D;%5B+LOOP+RUNNING...+%5D" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=1800&pause=400&color=00FF9C&center=true&vCenter=true&width=700&lines=%5B+PROCESS+INITIALIZED+%5D;%5B+IDEA+%E2%86%92+EXPLORE+%E2%86%92+BUILD+%5D;%5B+BREAK+%E2%86%92+LEARN+%E2%86%92+REPEAT+%5D;%5B+LOOP+RUNNING...+%5D"/>
 
-<br>
-
-<img src="https://svg-banners.vercel.app/api?type=animated&text=IDEA%20%20%E2%86%92%20%20EXPLORE%20%20%E2%86%92%20%20BUILD%20%20%E2%86%92%20%20BREAK%20%20%E2%86%92%20%20LEARN%20%20%E2%86%92%20%20REPEAT&width=1000&height=120&fontSize=24&color=00ff9c&background=050505" />
-
-<br><br>
+<br/>
 
 ```text
-                 ┌───────────────┐
-                 │               │
-                 │    ◉ IDEA     │
-                 │               │
-                 └───────┬───────┘
-                         │
-                         │  ░▒▓█
-                         ▼
-                 ┌───────────────┐
-                 │               │
-                 │  ◉ EXPLORE    │
-                 │               │
-                 └───────┬───────┘
-                         │
-                         │  ░▒▓█
-                         ▼
-                 ┌───────────────┐
-                 │               │
-                 │   ◉ BUILD     │
-                 │               │
-                 └───────┬───────┘
-                         │
-                         │  ░▒▓█
-                         ▼
-                 ┌───────────────┐
-                 │               │
-                 │   ◉ BREAK     │
-                 │               │
-                 └───────┬───────┘
-                         │
-                         │  ░▒▓█
-                         ▼
-                 ┌───────────────┐
-                 │               │
-                 │   ◉ LEARN     │
-                 │               │
-                 └───────┬───────┘
-                         │
-                         │
-                         └─────────────────────┐
-                                               │
-                                               ▼
-                                      ┌────────────────┐
-                                      │                │
-                                      │  ◉ REPEAT ↺    │
-                                      │                │
-                                      └───────┬────────┘
-                                              │
-                                              └────────► IDEA
+                         ┌───────────────┐
+                         │               │
+                         │    ◉ IDEA     │
+                         │               │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │               │
+                         │  ◉ EXPLORE    │
+                         │               │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │               │
+                         │   ◉ BUILD     │
+                         │               │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │               │
+                         │   ◉ BREAK     │
+                         │               │
+                         └───────┬───────┘
+                                 │
+                                 ▼
+                         ┌───────────────┐
+                         │               │
+                         │   ◉ LEARN     │
+                         │               │
+                         └───────┬───────┘
+                                 │
+                                 │
+                                 └──────────────────────┐
+                                                        │
+                                                        ▼
+                                               ┌────────────────┐
+                                               │                │
+                                               │  ◉ REPEAT ↺    │
+                                               │                │
+                                               └───────┬────────┘
+                                                       │
+                                                       │
+                                                       └──────────► IDEA
+```
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2200&pause=500&color=8B949E&center=true&vCenter=true&width=700&lines=thinking...;exploring...;building...;breaking...;debugging...;learning...;running+the+next+iteration..."/>
+
+<br/>
+
+`IDEA` → `EXPLORE` → `BUILD` → `BREAK` → `LEARN` → `REPEAT ↺`
+
+</div>
+
+---
+
 ## `ABOUT_ME`
 
 I'm a Computer Science Engineering student who enjoys going beyond
@@ -168,7 +177,7 @@ deeper.
 
 ### `> ACCESS_GRANTED`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=Thinking+in+systems...;Turning+ideas+into+code...;Breaking+things+to+understand+them...;Learning+something+new+every+day...;Building+what+comes+next..." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=Thinking+in+systems...;Turning+ideas+into+code...;Breaking+things+to+understand+them...;Learning+something+new+every+day...;Building+what+comes+next..."/>
 
 <br/>
 
